@@ -83,7 +83,7 @@ Goal:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@ Goal:
 
 </p> -->
 
----
+
 
 
 <!--git badges <p align="center">
@@ -162,10 +162,9 @@ Goal:
 
 <div align="center">
 
-### 💭 Quote I Live By
+### 💭 Quote I Live By>
+**"Build. Learn. Share. Repeat."**
 
-> **"Build. Learn. Share. Repeat."**
-
-<img src="https://komarev.com/ghpvc/?username=bhanagegargee&style=for-the-badge&color=6C63FF"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=bhanagegargee&style=for-the-badge&color=6C63FF"/> -->
 
 </div>
